@@ -1,6 +1,6 @@
 <template>
   <div class="app-header">
-    <button v-show="loggedIn">Logout</button>
+    <button class="but2ton" v-show="loggedIn">Logout</button>
   </div>
 </template>
 
